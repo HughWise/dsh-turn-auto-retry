@@ -1,0 +1,6 @@
+- insert:
+    - id: turn-auto-retry
+      name: 'dsh-turn-auto-retry'
+      config:
+        maxRetries: 3
+        delayMs: 400

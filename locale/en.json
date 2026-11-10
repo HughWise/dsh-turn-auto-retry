@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Turn auto-retry",
+    "description": "Retries a failed model request, tells the model why it failed and how the called tool must be called, and stops only after the same failure repeats past the limit."
+  }
+}
