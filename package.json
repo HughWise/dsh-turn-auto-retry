@@ -12,6 +12,14 @@
   ],
   "license": "MIT",
   "author": "xuhuazhi1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HughWise/dsh-turn-auto-retry.git"
+  },
+  "homepage": "https://github.com/HughWise/dsh-turn-auto-retry#readme",
+  "bugs": {
+    "url": "https://github.com/HughWise/dsh-turn-auto-retry/issues"
+  },
   "type": "module",
   "main": "index.js",
   "exports": {
